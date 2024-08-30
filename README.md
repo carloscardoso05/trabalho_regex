@@ -1,1 +1,2 @@
-# trabalho_regex
+# Trabalho sobre regex
+Disciplina: Linguagens formais, autômatos e computabilidade
